@@ -1,3 +1,3 @@
 # Coloboration
 
-Test text, git is awesom
+Test text, git is awesom!
